@@ -1,0 +1,328 @@
+{
+  "general": {
+  "College Name": "Lendi Institute of Engineering & Technology (LIET)",
+  "Established": "2008",
+  "Location": "Vizag - Vizianagaram Road, Jonnada, Denkada Mandal, Vizianagaram District, Andhra Pradesh - 535005",
+  "Type": "Private Engineering College",
+  "Affiliation": "Jawaharlal Nehru Technological University, Kakinada (JNTUK)",
+  "Accreditation": "AICTE Approved, Autonomous Status",
+  "Campus Size": "13 acres",
+  "Total Students": "Over 2,600 students",
+  "Total Faculty": "Over 200 faculty members",
+  "Principal": "Dr. V.V. Rama Reddy",
+  "Principal Details": "He is also a member of the institute's Governing Body and the Chairman of its Internal Quality Assurance Cell (IQAC).",
+  "Website": "https://www.lendi.edu.in",
+  "Phone": "9490344747, 9490304747, 08922241111",
+  "Email": "principal@lendi.edu.in, info@lendi.edu.in",
+  "Highway Access": "NH-43 (Visakhapatnam-Vizianagaram route)"
+},
+
+  "courses": {
+    "Undergraduate Programs": {
+      "degree": "B.Tech / BE",
+      "streams": "CSE, ECE, EEE, Mechanical, CSIT (Computer Science & Information Technology), CSS (Computer Science & Systems Engineering), CSM (AI & Machine Learning)",
+      "duration": "4 years",
+      "total_fees": "₹2.49 Lakhs (full duration)"
+    },
+    "Postgraduate Programs": {
+      "degree": "M.Tech / ME",
+      "streams": "Various engineering specializations",
+      "duration": "2 years",
+      "total_fees": "₹1.67 Lakhs (full duration)"
+    }
+  },
+  
+  "admissions": {
+    "UG Eligibility": "10+2 with Physics & Mathematics",
+    "UG Entrance Exam": "AP EAMCET",
+    "PG Eligibility": "Graduate in relevant engineering field",
+    "PG Entrance Exam": "GATE / PGECET",
+    "Academic Year": "2025-26",
+    "Payment Details": "Available on website - Bank Payment Details"
+  },
+  
+  "cutoff_marks": {
+    "CSE": {
+      "OC": {"boys": 13904, "girls": 16633},
+      "EWS": {"boys": 25947, "girls": 24132},
+      "SC": {"boys": 89044, "girls": 90761},
+      "ST": {"boys": 166057, "girls": 166057},
+      "BC_A": {"boys": 44727, "girls": 44727},
+      "BC_B": {"boys": 30699, "girls": 63797},
+      "BC_C": {"boys": 63820, "girls": 97201},
+      "BC_D": {"boys": 26700, "girls": 28301},
+      "BC_E": {"boys": 156439, "girls": 159717}
+    },
+    "CSIT": {
+      "OC": {"boys": 32312, "girls": 32312},
+      "EWS": {"boys": 39854, "girls": 39725},
+      "SC": {"boys": 172286, "girls": 172286},
+      "ST": {"boys": 32312, "girls": 32332},
+      "BC_A": {"boys": 68302, "girls": 69796},
+      "BC_B": {"boys": 51073, "girls": 58553},
+      "BC_C": {"boys": 32312, "girls": 32312},
+      "BC_D": {"boys": 36279, "girls": 36279},
+      "BC_E": {"boys": 66930, "girls": 66930}
+    },
+    "CSS": {
+      "OC": {"boys": 27085, "girls": 27085},
+      "EWS": {"boys": 46272, "girls": 38637},
+      "SC": {"boys": 123058, "girls": 123058},
+      "ST": {"boys": 35262, "girls": 35262},
+      "BC_A": {"boys": 57772, "girls": 75326},
+      "BC_B": {"boys": 55236, "girls": 70920},
+      "BC_C": {"boys": 27085, "girls": 27085},
+      "BC_D": {"boys": 38486, "girls": 38486},
+      "BC_E": {"boys": 74763, "girls": 84089}
+    },
+    "ECE": {
+      "OC": {"boys": 31597, "girls": 40638},
+      "EWS": {"boys": 47949, "girls": 53958},
+      "SC": {"boys": 173333, "girls": 173333},
+      "ST": {"boys": 145462, "girls": 145462},
+      "BC_A": {"boys": 60044, "girls": 75318},
+      "BC_B": {"boys": 62287, "girls": 74524},
+      "BC_C": {"boys": 37470, "girls": 40638},
+      "BC_D": {"boys": 43573, "girls": 45545},
+      "BC_E": {"boys": 117465, "girls": 117465}
+    },
+    "EEE": {
+      "OC": {"boys": 75773, "girls": 75773},
+      "EWS": {"boys": 149954, "girls": 92863},
+      "SC": {"boys": 77008, "girls": 79526},
+      "ST": {"boys": 75773, "girls": 79705},
+      "BC_A": {"boys": 95438, "girls": 104206},
+      "BC_B": {"boys": 131699, "girls": 131699},
+      "BC_C": {"boys": 75773, "girls": 75773},
+      "BC_D": {"boys": 78637, "girls": 85060},
+      "BC_E": {"boys": 105196, "girls": 108434}
+    },
+    "CSM": {
+      "OC": {"boys": 24597, "girls": 24597},
+      "EWS": {"boys": 149954, "girls": 92863},
+      "SC": {"boys": 160346, "girls": 176703},
+      "ST": {"boys": 160883, "girls": 176416},
+      "BC_A": {"boys": 51226, "girls": 62238},
+      "BC_B": {"boys": 49077, "girls": 65398},
+      "BC_C": {"boys": 24597, "girls": 24597},
+      "BC_D": {"boys": 33196, "girls": 33196},
+      "BC_E": {"boys": 53082, "girls": 82681}
+    },
+    "Mechanical": {
+      "OC": {"boys": 112938, "girls": 139374},
+      "EWS": {"boys": 149059, "girls": 141370},
+      "SC": {"boys": 135703, "girls": 152976},
+      "ST": {"boys": 146337, "girls": 146337},
+      "BC_A": {"boys": 138413, "girls": 168998},
+      "BC_B": {"boys": 168927, "girls": 168927},
+      "BC_C": {"boys": 112938, "girls": 142694},
+      "BC_D": {"boys": 138295, "girls": 168247},
+      "BC_E": {"boys": 154313, "girls": 167893}
+    }
+  },
+  
+  "facilities": {
+    "Boys Hostel": {
+      "availability": "Yes",
+      "description": "Separate hostel for boys with modern amenities"
+    },
+    "Girls Hostel": {
+      "availability": "Yes",
+      "description": "Separate hostel for girls with modern amenities"
+    },
+    "Library": {
+      "availability": "Yes",
+      "description": "Well-stocked library with books, journals, and digital resources"
+    },
+    "Transport": {
+      "availability": "Yes",
+      "description": "Transport facility available for students covering major areas"
+    },
+    "Canteen": {
+      "availability": "Yes",
+      "description": "Mess and canteen facilities available with variety of food options"
+    },
+    "Gymnasium": {
+      "availability": "Yes",
+      "description": "Modern gymnasium for fitness and health"
+    },
+    "Sports": {
+      "availability": "Yes",
+      "description": "Various sports facilities available for students"
+    },
+    "Labs": {
+      "availability": "Yes",
+      "description": "Well-equipped laboratories for all departments including CNC Lab, Simulation Lab, R&D Lab"
+    },
+    "Auditorium": {
+      "availability": "Yes",
+      "description": "Modern auditorium for events, seminars, and workshops"
+    },
+    "Language Lab": {
+      "availability": "Yes",
+      "description": "Technology aided Language lab for communication skills development"
+    }
+  },
+  
+  "faculty": {
+    "Total Faculty": "Over 200 faculty members with doctoral and post-graduate degrees",
+    "CSE Department": {
+      "HOD": "Dr A Rama Rao",
+      "email": "hod.cse@lendi.edu.in",
+      "focus": "Computer Science, Programming, AI, ML, Data Science",
+      "achievements": "Over 500 engineers graduated with placements in top MNCs",
+      "activities": "Symposiums, workshops, MOOCS, Swayam courses, industry internships, hackathons"
+    },
+    "ECE Department": {
+      "HOD": "Dr Naresh Kumar Darimireddy",
+      "email": "hod.ece@lendi.edu.in",
+      "focus": "Electronics, Communication Systems, VLSI, Embedded Systems",
+      "activities": "Industry internships, Cambridge certifications, research and publications"
+    },
+    "EEE Department": {
+      "HOD": "Dr Subbaramaiah K",
+      "email": "hod.eee@lendi.edu.in",
+      "focus": "Electrical Engineering, Power Systems, Control Systems",
+      "activities": "Technical assessments, mock interviews, GATE coaching"
+    },
+    "Mechanical Department": {
+      "HOD": "Dr Satish Pujari",
+      "email": "hod.mech@lendi.edu.in",
+      "focus": "Design, Manufacturing, Thermal Engineering, CAD, CAM, Robotics",
+      "accreditation": "NBA accredited within 5 years of establishment",
+      "labs": "High-end Simulation Lab, CNC Lab, R&D Lab, Welding, NDT"
+    },
+    "CSIT Department": {
+      "HOD": "Jagannadha Varma P",
+      "email": "hod.csit@lendi.edu.in",
+      "focus": "Computer Science, Information Technology, Software Engineering",
+      "activities": "Industry internships, programming competitions, career guidance"
+    },
+    "CSS Department": {
+      "HOD": "Dr R Rajender",
+      "email": "hod.csse@lendi.edu.in",
+      "focus": "Computer Science & Systems Engineering, Hardware systems, AI, Robotics",
+      "career_opportunities": "System Administrator, Network Administrator, Cryptologist, Web Developer, Software Engineer"
+    },
+    "CSM Department": {
+      "HOD": "Dr V Prasad",
+      "email": "hod.aiml@lendi.edu.in",
+      "focus": "Artificial Intelligence, Machine Learning, Deep Learning, Data Science",
+      "established": "2023-24 with 60 students intake",
+      "tools": "Python, TensorFlow, PyTorch",
+      "career_opportunities": "AI Engineer, ML Engineer, Data Scientist, NLP Specialist, Business Intelligence Developer"
+    },
+    "Science & Humanities Department": {
+      "HOD": "Dr P Durga Sailaja",
+      "email": "hod.sh@lendi.edu.in",
+      "focus": "Mathematics, English, Physics, Chemistry, Management, Environmental Studies",
+      "faculty_strength": "10 doctorates, 2 submitted PhD theses, 10 pursuing PhD",
+      "facilities": "Technology aided Language lab, NPTEL and MIT e-lectures"
+    }
+  },
+  
+  "placements": {
+    "Median Salary": "₹5.50 Lakhs per annum",
+    "Infrastructure Rating": "4.3/5 (Student reviews)",
+    "Focus": "100% placement assistance for eligible students",
+    "Training": "Technical assessments, mock interviews, career guidance, coding practice platforms",
+    "Top Companies": "Leading MNCs and tech companies"
+  },
+  
+  "academic": {
+    "CSE Department": {
+      "name": "Computer Science & Engineering",
+      "specializations": "AI, ML, Data Science, Software Development, Programming",
+      "facilities": "Modern computer labs, project rooms, coding platforms",
+      "short_term_goals": "Improve pass percentage, achieve excellent GATE ranks, prepare for IT industry",
+      "long_term_goals": "R&D activities, automation projects, MoUs with MNCs, professional accreditation",
+      "student_chapters": "CSI chapter, coding clubs"
+    },
+    "ECE Department": {
+      "name": "Electronics & Communication Engineering",
+      "specializations": "VLSI, Embedded Systems, Communications, Signal Processing",
+      "facilities": "Electronics labs, advanced equipment",
+      "short_term_goals": "Improve academic performance, GATE preparation, industry readiness",
+      "long_term_goals": "R&D activities, conference publications, professional accreditation"
+    },
+    "EEE Department": {
+      "name": "Electrical & Electronics Engineering",
+      "specializations": "Power Systems, Control Systems, Electronics, Electrical Engineering",
+      "facilities": "Electrical labs, power systems equipment",
+      "short_term_goals": "Academic excellence, GATE ranks, industry preparation",
+      "long_term_goals": "Research activities, automation projects, MoUs with companies"
+    },
+    "Mechanical Department": {
+      "name": "Mechanical Engineering",
+      "specializations": "Design, Manufacturing, Thermal Engineering, Robotics, CAD, CAM, Welding, NDT",
+      "facilities": "Simulation Lab, CNC Lab, R&D Lab, Workshops",
+      "accreditation": "NBA accredited",
+      "education_approach": "Outcome-Based Education (OBE)",
+      "short_term_goals": "Improve pass percentage, GATE ranks, industry readiness, innovative skills",
+      "long_term_goals": "R&D activities, automation projects, top conference publications, professional accreditation"
+    },
+    "CSIT Department": {
+      "name": "Computer Science & Information Technology",
+      "specializations": "Software Engineering, Web Development, Information Technology",
+      "facilities": "IT labs, project rooms, programming platforms",
+      "short_term_goals": "Academic excellence, GATE preparation, industry skills",
+      "long_term_goals": "Research activities, automation projects, MoUs with MNCs"
+    },
+    "CSS Department": {
+      "name": "Computer Science & Systems Engineering",
+      "specializations": "Hardware systems, System software, Compilers, AI, Robotics, Automata theory",
+      "facilities": "System labs, hardware labs",
+      "short_term_goals": "100% pass percentage, 50% distinction, new technology exposure, 100% placements",
+      "long_term_goals": "R&D projects, PhD completion by 2025, minimum 2 patents by 2028"
+    },
+    "CSM Department": {
+      "name": "AI & Machine Learning (CSE-AIML)",
+      "specializations": "Deep Learning, Neural Networks, Data Analytics, NLP, Computer Vision",
+      "facilities": "Advanced computing labs, AI/ML tools and frameworks",
+      "established": "2023-24",
+      "intake": "60 students",
+      "why_choose": "Specialized AI/ML knowledge, high industry demand, cutting-edge tools, diverse career opportunities",
+      "student_chapters": "IIC, CSI, GFG chapters",
+      "short_term_goals": "Excel in coding and communication, improve pass percentage, encourage higher studies",
+      "long_term_goals": "AI research through simulation, MoUs with core industries, accreditation status"
+    },
+    "Science & Humanities": {
+      "name": "Science & Humanities Department",
+      "subjects": "Mathematics, English, Physics, Chemistry, Management Studies, Environmental Studies",
+      "focus": "Bridge gap between intermediate and professional education",
+      "facilities": "Language lab for communication skills, group discussions, presentations",
+      "short_term_goals": "Improve pass percentage, moral values, communication skills",
+      "long_term_goals": "R&D activities, society-useful projects, international publications"
+    }
+  },
+  
+  "student_activities": {
+    "Training Programs": "Advanced technology training by industry experts",
+    "Internships": "Industry internships to understand trends and technologies",
+    "Certifications": "Cambridge certifications for documentation and communication",
+    "Competitions": "Coding competitions, hackathons, project competitions nationwide",
+    "Research": "Encouragement for conference attendance and journal publications",
+    "Student Chapters": "IIC, CSI, GFG, and other technical chapters",
+    "Counseling": "Regular counseling sessions and GATE coaching classes",
+    "Workshops": "Regular symposiums, workshops, seminars, and webinars"
+  },
+  
+  "administration": {
+    "Principal": {
+    "Name": "Dr. V.V. Rama Reddy",
+    "Email": "principal@lendi.edu.in",
+    "Phone": "9490344747, 9490304747",
+    "Details": "He is a member of the institute's Governing Body and the Chairman of the Internal Quality Assurance Cell (IQAC)."
+  },
+    "Management": "Professional management team dedicated to student success",
+    "Support Services": "Academic counseling, career guidance, placement assistance, Training & Placement Cell",
+    "Career Services": "career@lendi (for recruitment)",
+    "Student Verification": "Available on website"
+  },
+  
+  "downloads": {
+    "AICTE Approvals": "Autonomous JNTUK and UGC approvals available",
+    "Bank Payment Details": "Available on website",
+    "Mandatory Disclosure": "2025-26 academic year details available"
+  }
+}
